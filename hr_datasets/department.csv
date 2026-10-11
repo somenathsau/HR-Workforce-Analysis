@@ -1,0 +1,10 @@
+dept_id,dept_name,cost_center
+DT1,Engineering,CC-2824
+DT2,Sales,CC-1409
+DT3,Marketing,CC-5506
+DT4,HR,CC-5012
+DT5,Finance,CC-4657
+DT6,IT,CC-3286
+DT7,Operations,CC-2679
+DT8,Product,CC-9935
+DT9,Customer Service,CC-2424
